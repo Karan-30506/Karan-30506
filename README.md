@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://git.io/streak-stats)
+
 <!--
 **Karan-30506/Karan-30506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
