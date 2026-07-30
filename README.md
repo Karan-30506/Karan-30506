@@ -1,126 +1,57 @@
 <div align="center">
 
-# 🕷️ Hi, I'm Karan Ahuja
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=1e1e2e&height=200&section=header&text=Karan%20Ahuja%20🕷️&fontSize=42&fontColor=f38ba8&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner" />
 
-### Friendly Neighborhood Developer
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/Karan-30506">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&height=50&lines=Friendly+Neighborhood+Developer+🕸️;CS+@+COEP+Tech+(CGPA:+9.54)+🎓;DSP%2C+Systems+%26+Compilers+Enthusiast+⚡;Building+High-Performance+Software+🚀" alt="Typing SVG" />
+  </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=F38BA8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;System+Design+Enthusiast;Compiler+Explorer;DSA+Learner;Building+Cool+Things"/>
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Karan-30506&style=for-the-badge&color=89b4fa"/>
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="mailto:sanjayak24.comp@coeptech.ac.in">
+      <img src="https://img.shields.io/badge/Email-COEP%20Tech-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Email" />
+    </a>
+    <a href="https://github.com/Karan-30506">
+      <img src="https://img.shields.io/badge/GitHub-Karan--30506-89b4fa?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Editor-Neovim-a6e3a1?style=for-the-badge&logo=neovim&logoColor=1e1e2e" alt="Neovim" />
+  </p>
 
 </div>
 
----
-
-## 🕸️ About Me
-
-- 🎓 Computer Engineering Student
-- 💻 Full Stack Developer
-- ⚡ DSA Enthusiast
-- 🧠 Learning System Design
-- 🔥 Building scalable web applications
-- 🕷️ Huge Spider-Man fan
-
----
-
-## 🚀 Current Projects
-
-### 🕸 LinkForge
-
-An all-in-one developer utility platform featuring
-
-- URL Shortener
-- Video Downloader
-- MP3 Converter
-- Payment Gateway Integration
-
----
-
-### 🧠 TOC Visualizer
-
-Interactive compiler and automata visualization platform
-
-- DFA
-- NFA
-- ε-NFA
-- PDA
-- CFG
-- LL(1) Parser
-- SLR Parser
-
----
-
-## ⚙ Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nodejs,express,mongodb,postgres,redis,docker,git,github,linux,vscode"/>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Web Line Divider" />
 </p>
 
----
+## 🕷️ <code>Spider-Sense: ON</code>
 
-## 📊 GitHub Stats
+> *"With great power comes great context length... and clean architecture."*
 
-<p align="center">
-
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=Karan-30506&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
-
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-30506&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
-
-</p>
+* 🎓 **Academic Rigor:** B.Tech Computer Engineering student at **COEP Technological University** (**CGPA: 9.54 / 10.0**).
+* ⚡ **Core Interests:** High-Performance Systems, Digital Signal Processing (DSP), Compiler Design, and Full-Stack Web Development.
+* 🛠️ **Current Quest:** Architecting a high-performance **8086 Microprocessor & Peripheral CAD Simulator** in C++.
+* 🏆 **Hackathons:** EY Techathon 6.0 Semi-Finalist (Engineered multi-agent systems using CrewAI).
+* ⚙️ **Workflow:** Powered by **Neovim** (LazyVim setup) on Ubuntu/Linux & Windows.
 
 ---
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Karan-30506&theme=catppuccin-mocha&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-30506&theme=catppuccin-mocha"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karan-30506&theme=catppuccin&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 💬 Favorite Quote
-
-> **"With great power comes great responsibility."**
-
-— Spider-Man
-
----
+## 🕸️ <code>Tech Stack & Suit Upgrades</code>
 
 <div align="center">
 
-Thanks for visiting! 🕷️
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>` `<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>` `<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>` `<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>` `<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>` |
+| **Frameworks & Web** | `<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>` `<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>` `<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>` `<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>` |
+| **Databases & Tools** | `<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>` `<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>` `<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>` `<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>` |
+| **Environment** | `<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>` `<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>` `<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>` `<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>` |
 
 </div>
 
-<!--
-**Karan-30506/Karan-30506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ <code>Featured Web-Slinger Projects</code>
