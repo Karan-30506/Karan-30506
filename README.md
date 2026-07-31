@@ -1,57 +1,135 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1e1e2e&height=200&section=header&text=Karan%20Ahuja%20🕷️&fontSize=42&fontColor=f38ba8&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,50:1e1e2e,100:f38ba8&height=200&section=header&text=Karan%20Sanjay%20Ahuja&fontSize=45&fontColor=cdd6f4&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Systems%20%26%20ML%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
 
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/Karan-30506">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=89B4FA&center=true&vCenter=true&width=550&height=50&lines=Friendly+Neighborhood+Developer+🕸️;CS+@+COEP+Tech+(CGPA:+9.54)+🎓;DSP%2C+Systems+%26+Compilers+Enthusiast+⚡;Building+High-Performance+Software+🚀" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Quick Badges -->
-  <p align="center">
-    <a href="mailto:sanjayak24.comp@coeptech.ac.in">
-      <img src="https://img.shields.io/badge/Email-COEP%20Tech-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Email" />
-    </a>
-    <a href="https://github.com/Karan-30506">
-      <img src="https://img.shields.io/badge/GitHub-Karan--30506-89b4fa?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Editor-Neovim-a6e3a1?style=for-the-badge&logo=neovim&logoColor=1e1e2e" alt="Neovim" />
-  </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=650&lines=%22With+great+code+comes+great+responsibility%22+%F0%9F%95%B8%EF%B8%8F;B.Tech+Computer+Engineering+%40+COEP%2C+Pune;Building+%3A+Systems+%2B+Web+%2B+ML;Currently+swinging+through+8086+%26+Compilers" alt="Typing SVG" />
+</a>
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Web Line Divider" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🕷️ <code>Spider-Sense: ON</code>
+<h3 align="center">🕸️ about-me.exe</h3>
 
-> *"With great power comes great context length... and clean architecture."*
+- 🎓 B.Tech in **Computer Engineering** @ COEP Technological University, Pune (CGPA: 9.54/10.0)
+- 🕷️ Currently building a full-stack **Automata & Compiler Generation Engine**
+- 🧪 Also crafting a **8086 Microprocessor Virtual Lab & CAD Simulator** in C++
+- 🎯 Built **Alakazam** — a multithreaded audio/video fingerprint retrieval engine (~95% accuracy)
+- 🥈 Semi-Finalist, **EY Techathon 6.0** — Agentic AI hackathon (multi-agent systems w/ CrewAI)
+- 🌐 Web-slinging between low-level systems programming and full-stack web dev
+- ⚡ Fun fact: my code has bugs, but so does every web — I just patch the holes faster
 
-* 🎓 **Academic Rigor:** B.Tech Computer Engineering student at **COEP Technological University** (**CGPA: 9.54 / 10.0**).
-* ⚡ **Core Interests:** High-Performance Systems, Digital Signal Processing (DSP), Compiler Design, and Full-Stack Web Development.
-* 🛠️ **Current Quest:** Architecting a high-performance **8086 Microprocessor & Peripheral CAD Simulator** in C++.
-* 🏆 **Hackathons:** EY Techathon 6.0 Semi-Finalist (Engineered multi-agent systems using CrewAI).
-* ⚙️ **Workflow:** Powered by **Neovim** (LazyVim setup) on Ubuntu/Linux & Windows.
+<br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🕸️ <code>Tech Stack & Suit Upgrades</code>
+<h3 align="center">🧰 tech-web.build()</h3>
 
 <div align="center">
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>` `<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>` `<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>` `<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>` `<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>` |
-| **Frameworks & Web** | `<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>` `<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>` `<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>` `<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>` |
-| **Databases & Tools** | `<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>` `<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>` `<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>` `<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>` |
-| **Environment** | `<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>` `<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>` `<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>` `<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>` |
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,go,assembly&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,docker,aws&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=linux,vscode,vim,postman,graphql,redis&theme=dark" />
 
 </div>
 
----
+<br>
 
-## ⚡ <code>Featured Web-Slinger Projects</code>
+<div align="center">
+
+![C++](https://img.shields.io/badge/-C++-1e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=f38ba8)
+![Java](https://img.shields.io/badge/-Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=fab387)
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=a6e3a1)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<h3 align="center">📊 github-stats.render()</h3>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Karan-30506&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=f38ba8&icon_color=89b4fa&text_color=cdd6f4&border_radius=12" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-30506&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=f38ba8&text_color=cdd6f4&border_radius=12" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Karan-30506&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=f38ba8&fire=fab387&currStreakLabel=cdd6f4&sideNums=cdd6f4&dates=a6adc8&border_radius=12" />
+
+</div>
+
+<h4 align="center">🕷️ contribution-web.activity</h4>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-30506&theme=react-dark&bg_color=1e1e2e&color=f38ba8&line=89b4fa&point=fab387&area=true&hide_border=true&border_radius=12" width="100%"/>
+
+</div>
+
+<h4 align="center">🐍 the-snake.slings</h4>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Karan-30506/Karan-30506/output/snake-dark.svg" width="100%" />
+
+<sub><i>(Snake activates automatically once the GitHub Action below is added to your profile repo — see setup notes)</i></sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<h3 align="center">🏆 trophy.unlock()</h3>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Karan-30506&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,PullRequest,Repositories,Followers,MultiLanguage,Experience" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<h3 align="center">🕸️ featured-repos.pin()</h3>
+
+<div align="center">
+
+<a href="https://github.com/Karan-30506/Alakazam">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-30506&repo=Alakazam&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=f38ba8&icon_color=89b4fa&text_color=cdd6f4&border_radius=12" />
+</a>
+<a href="https://github.com/Karan-30506">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-30506&repo=automata-compiler-engine&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=f38ba8&icon_color=89b4fa&text_color=cdd6f4&border_radius=12" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<h3 align="center">🔗 connect.swingTo()</h3>
+
+<div align="center">
+
+<a href="mailto:sanjayak24.comp@coeptech.ac.in">
+  <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" />
+</a>
+<a href="https://github.com/Karan-30506">
+  <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Karan-30506&label=Web-Shooter%20Hits&color=f38ba8&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f38ba8,50:1e1e2e,100:11111b&height=120&section=footer" width="100%"/>
+
+</div>
